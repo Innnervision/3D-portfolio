@@ -253,16 +253,16 @@
   ],
   "images": [
     {
-      "uri": "textures/laptop_MAT_baseColor.png"
+      "uri": "textures/laptop_MAT_baseColor.jpg"
     },
     {
-      "uri": "textures/laptop_MAT_metallicRoughness.png"
+      "uri": "textures/laptop_MAT_metallicRoughness.jpg"
     },
     {
-      "uri": "textures/laptop_MAT_normal.png"
+      "uri": "textures/laptop_MAT_normal.jpg"
     },
     {
-      "uri": "textures/screen_MAT_baseColor.png"
+      "uri": "textures/screen_MAT_baseColor.jpg"
     }
   ],
   "materials": [

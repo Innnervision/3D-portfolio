@@ -1,0 +1,11 @@
+Model Information:
+* title:	Calgary Police Ford Explorer
+* source:	https://sketchfab.com/3d-models/calgary-police-ford-explorer-f1318e0523cd428c87f6653dd5cded85
+* author:	valvetin (https://sketchfab.com/valvetin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Calgary Police Ford Explorer" (https://sketchfab.com/3d-models/calgary-police-ford-explorer-f1318e0523cd428c87f6653dd5cded85) by valvetin (https://sketchfab.com/valvetin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
